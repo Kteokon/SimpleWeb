@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arcsys>
+    <button>
+        
+    </button>
+    <info>
+        - японская компания-разработчик и издатель видеоигр, расположенная в Йокогаме. Основанная в 1988 Минору Кидоокой, компания известна за франшизы аркадных 2D файтингов, в числе которых Guilty Gear и BlazBlue и другие лицензионные файтинги по Dragon Ball и Persona 4.
+    </info>
+    <game name = "BlazBlue">
+        <BlazBlue imgLine = "BBCTrLine.jpg" link = "">BlazBlue: Calamity Trigger</BlazBlue>
+        <BlazBlue imgLine = "BBCShLine.jpg" link = "">BlazBlue: Continuum Shift</BlazBlue>
+        <BlazBlue imgLine = "BBCSh2Line.jpg" link = "">BlazBlue: Continuum Shift II</BlazBlue>
+        <BlazBlue imgLine = "BBCShExtLine.jpg" link = "">BlazBlue: Continuum Shift Extend</BlazBlue>
+        <BlazBlue imgLine = "BBChPhLine.jpg" link = "">BlazBlue: Chrono Phantasma</BlazBlue>
+        <BlazBlue imgLine = "BBCFLine.jpg" link = "">BlazBlue: Central Fiction</BlazBlue>
+        <BlazBlue imgLine = "BBCrTBLine.jpg" link = "">BlazBlue: Cross Tag Battle</BlazBlue>
+    </game>
+    <game name = "GuiltyGear">
+        <GuiltyGear imgLine = "GGLine.jpg" link = "">Guilty Gear</GuiltyGear>
+        <GuiltyGear imgLine = "GGXLine.jpg" link = "">Guilty Gear X</GuiltyGear>
+        <GuiltyGear imgLine = "GGXXLine.jpg" link = "">Guilty Gear XX</GuiltyGear>
+        <GuiltyGear imgLine = "GGIsukaLine.jpg" link = "">Guilty Gear Isuka</GuiltyGear>
+        <GuiltyGear imgLine = "GGXrdSIGNLine.jpg" link = "">Guilty Gear Xrd -SIGN-</GuiltyGear>
+        <GuiltyGear imgLine = "GGXrdREVELATORLine.jpg" link = "">Guilty Gear Xrd -REVELATOR-</GuiltyGear>
+        <GuiltyGear imgLine = "GGSTRIVELine.jpg" link = "">Guilty Gear -STRIVE-</GuiltyGear>
+    </game>
+    <game name = "UnderNight">
+        <UnderNight imgLine = "UnderNightLine.jpg" link = "">Under Night In-Birth Exe:Late</UnderNight>
+        <UnderNight imgLine = "UnderNightStLine.jpg" link = "">Under Night In-Birth Exe:Late[st]</UnderNight>
+        <UnderNight imgLine = "UnderNightClRLine.jpg" link = "">Under Night In-Birth Exe:Late[cl-r]</UnderNight>
+    </game>
+</arcsys>

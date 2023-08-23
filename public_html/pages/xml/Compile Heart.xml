@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CH>
+    <info>
+        - японская компания-разработчик видеоигр, основанная 2 июня 2006 года как дочерняя Idea Factory. Компания раннее управлялась бывшим исполнительным директором Compile Масамицу «Му» Ниитани, наиболее известный созданием серий Madou Monogatari и Puyo Puyo, до своей отставки в декабре 2012. Compile Heart наиболее известна за свои Hyperdimension Neptunia и Record of Agarest War.
+    </info>
+    <info>
+        В 2010 компания приобрела лицензионную сделку с D4 Enterprise для создания новых игр на основе франшиз от ныне покойного сотрудника. Это никак не повлияло на права на серию Puyo Puyo, которой D4 не владеет и которая остаётся собственностью Sega.
+    </info>
+    <game name = "Neptunia">
+        <Neptunia imgLine = "Neptunia1Line.jpg" link = "">Hyperdimension Neptunia</Neptunia>
+        <Neptunia imgLine = "NeptuniaMk2Line.jpg" link = "">Hyperdimension Neptunia Mk2</Neptunia>
+        <Neptunia imgLine = "NeptuniaVLine.jpg" link = "">Hyperdimension Neptunia Victory</Neptunia>
+        <Neptunia imgLine = "NeptuniaVIILine.jpg" link = "">Hyperdimension Neptunia VII</Neptunia>
+        <Neptunia imgLine = "NeptuniaPPLine.jpg" link = "">Hyperdimension Neptunia: Producing Perfection</Neptunia>
+        <Neptunia imgLine = "NeptuniaULine.jpg" link = "">Hyperdimension Neptunia U</Neptunia>
+        <Neptunia imgLine = "NoireLine.jpg" link = "">Hyperdevotion Noire</Neptunia>
+        <Neptunia imgLine = "BlancLine.jpg" link = "">MegaTagmension Blanc</Neptunia>
+        <Neptunia imgLine = "SuperNeptuniaLine.jpg" link = "">Superdimension Neptune VS Sega Hard Girls</Neptunia>
+        <Neptunia imgLine = "Neptunia4Line.jpg" link = "">Cyberdimension Neptunia: 4 Goddesses Online</Neptunia>
+        <Neptunia imgLine = "SuperNeptuniaLine.jpg" link = "">Super Neptunia RPG</Neptunia>
+        <Neptunia imgLine = "NeptuniaVSLine.jpg" link = "">Neptunia Virtual Stars</Neptunia>
+    </game>
+    <game name = "MS">
+        <MS imgLine = "MSLine.jpg" link = "">Mary Skelter: Nightmares</MS>
+        <MS imgLine = "MS2Line.jpg" link = "">Mary Skelter 2</MS>
+        <MS imgLine = "MSFLine.jpg" link = "">Mary Skelter: Finale</MS>
+    </game>
+    <game name = "FFF">
+        <FFF imgLine = "FFFLine.jpg" link = "">Fairy Fencer F</FFF>
+    </game>
+    <game name = "Trillion">
+        <Trillion imgLine = "TrillionLine.jpg" link = "">Trillion: God of Destruction</Trillion>
+    </game>
+</CH>

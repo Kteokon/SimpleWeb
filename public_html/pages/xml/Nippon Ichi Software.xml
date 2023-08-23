@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NIS>
+    <info>
+        - японская компания-разработчик и издатель видеоигр. Она ответственна за такие игры, как серии тактических RP игр Disgaea и Mari Kingdom, La Pucelle: Tactics, Phantom Brave, Makai Kingdom: Chronicles of the Sacred Tome и Soul Nomad and the World Eaters. Позднее в объединении с их североамериканским отделением, NIS America, основанным в 2003 году, они начали выпускать и аниме. В качестве маскота выступает демон Принни из Disgaea.
+    </info>
+    <info>
+        NIS America отвечает за выпуск и локализацию игр в Северной Америке. До 2007 NIS не имела отделений в регионах PAL, в следствие чего компания сотрудничала с Ghostlight, Koei, Square Enix, Ubisoft.
+    </info>
+    <game name = "Disgaea">
+        <Disgaea imgLine = "Disgaea1Line.jpg" link = "NIS/Disgaea.html">Disgaea</Disgaea>
+        <Disgaea imgLine = "Disgaea2Line.jpg" link = "NIS/Disgaea2.html">Disgaea 2</Disgaea>
+        <Disgaea imgLine = "Disgaea3Line.jpg" link = "NIS/Disgaea3.html">Disgaea 3</Disgaea>
+        <Disgaea imgLine = "Disgaea4Line.jpg" link = "NIS/Disgaea4.html">Disgaea 4</Disgaea>
+        <Disgaea imgLine = "DisgaeaD2Line.jpg" link = "NIS/DisgaeaD2.html">Disgaea Dimension 2</Disgaea>
+        <Disgaea imgLine = "Disgaea5Line.jpg" link = "NIS/Disgaea5.html">Disgaea 5</Disgaea>
+    </game>
+    <game name = "TWatHK">
+        <TWatHK imgLine = "TWatHKLine.jpg" link = "">The Witch and the Hundred Knight</TWatHK>
+        <TWatHK imgLine = "TWatHK2Line.jpg" link = "">The Witch and the Hundred Knight 2</TWatHK>
+    </game>
+    <game name = "Coven">
+        <Coven imgLine = "CovenLine.jpg" link = "">Labyrinth of Refrain: Coven of Dusk</Coven>
+        <Coven imgLine = "Coven2Line.jpg" link = "">Labyrinth of Galleria: Coven of Dusk</Coven>
+    </game>
+</NIS>

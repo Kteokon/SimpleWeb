@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JRPG>
+    <info>
+        
+    </info>
+    <info>
+        
+    </info>
+    <game name = "Persona">
+        <Persona imgLine = "Persona1Line.jpg" link = "">Persona</Persona>
+        <Persona imgLine = "Persona2Line.jpg" link = "">Persona 2</Persona>
+        <Persona imgLine = "Persona3Line.jpg" link = "">Persona 3</Persona>
+        <Persona imgLine = "Persona4Line.jpg" link = "">Persona 4</Persona>
+        <Persona imgLine = "Persona5Line.jpg" link = "">Persona 5</Persona>
+        <Persona imgLine = "PersonaQLine.jpg" link = "">Persona Q: Shadow of the Labyrinth</Persona>
+        <Persona imgLine = "PersonaQ2Line.jpg" link = "">Persona Q2: New Cinema Labyrinth</Persona>
+        <Persona imgLine = "Persona5ScrambleLine.jpg" link = "">Persona 5 Scramble</Persona>
+    </game>
+    <game name = "Disgaea">
+        <Disgaea imgLine = "Disgaea1Line.jpg" link = "NIS/Disgaea.html">Disgaea</Disgaea>
+        <Disgaea imgLine = "Disgaea2Line.jpg" link = "NIS/Disgaea2.html">Disgaea 2</Disgaea>
+        <Disgaea imgLine = "Disgaea3Line.jpg" link = "NIS/Disgaea3.html">Disgaea 3</Disgaea>
+        <Disgaea imgLine = "Disgaea4Line.jpg" link = "NIS/Disgaea4.html">Disgaea 4</Disgaea>
+        <Disgaea imgLine = "DisgaeaD2Line.jpg" link = "NIS/DisgaeaD2.html">Disgaea Dimension 2</Disgaea>
+        <Disgaea imgLine = "Disgaea5Line.jpg" link = "NIS/Disgaea5.html">Disgaea 5</Disgaea>
+    </game>
+    <game name = "Neptunia">
+        <Neptunia imgLine = "Neptunia1Line.jpg" link = "">Hyperdimension Neptunia</Neptunia>
+        <Neptunia imgLine = "NeptuniaMk2Line.jpg" link = "">Hyperdimension Neptunia Mk2</Neptunia>
+        <Neptunia imgLine = "NeptuniaVLine.jpg" link = "">Hyperdimension Neptunia Victory</Neptunia>
+        <Neptunia imgLine = "NeptuniaVIILine.jpg" link = "">Hyperdimension Neptunia VII</Neptunia>
+        <Neptunia imgLine = "NoireLine.jpg" link = "">Hyperdevotion Noire</Neptunia>
+        <Neptunia imgLine = "BlancLine.jpg" link = "">MegaTagmension Blanc</Neptunia>
+        <Neptunia imgLine = "SuperNeptuniaLine.jpg" link = "">Superdimension Neptune VS Sega Hard Girls</Neptunia>
+        <Neptunia imgLine = "Neptunia4Line.jpg" link = "">Cyberdimension Neptunia: 4 Goddesses Online</Neptunia>
+        <Neptunia imgLine = "SuperNeptuniaLine.jpg" link = "">Super Neptunia RPG</Neptunia>
+    </game>
+    <game name = "MS">
+        <MS imgLine = "MSLine.jpg" link = "">Mary Skelter: Nightmares</MS>
+        <MS imgLine = "MS2Line.jpg" link = "">Mary Skelter 2</MS>
+        <MS imgLine = "MSFLine.jpg" link = "">Mary Skelter: Finale</MS>
+    </game>
+    <game name = "FFF">
+        <FFF imgLine = "FFFLine.jpg" link = "">Fairy Fencer F</FFF>
+    </game>
+</JRPG>

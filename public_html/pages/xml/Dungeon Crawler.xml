@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DCr>
+    <info>
+        
+    </info>
+    <info>
+        
+    </info>
+    <game name = "Coven">
+        <Coven imgLine = "CovenLine.jpg" link = "">Labyrinth of Refrain: Coven of Dusk</Coven>
+        <Coven imgLine = "Coven2Line.jpg" link = "">Labyrinth of Galleria: Coven of Dusk</Coven>
+    </game>
+    <game name = "MS">
+        <MS imgLine = "MSLine.jpg" link = "">Mary Skelter: Nightmares</MS>
+        <MS imgLine = "MS2Line.jpg" link = "">Mary Skelter 2</MS>
+        <MS imgLine = "MSFLine.jpg" link = "">Mary Skelter: Finale</MS>
+    </game>
+    <game name = "Trillion">
+        <Trillion imgLine = "TrillionLine.jpg" link = "">Trillion: God of Destruction</Trillion>
+    </game>
+</DCr>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ATLUS>
+    <info>
+        - японская компания-разработчик и издатель видеоигр, расположенная в Токио. Она известна сериями игр Shin Megami Tensei, Persona, Etrian Odyssey и Trauma Canter. Маскотом компании является Jack Frost – один из врагов Shin Megami Tensei в виде снеговика.
+    </info>
+    <info>
+        ATLUS была основана в апреле 1986 года и изначально разрабатывала игры для других компаний. Самостоятельно начала издавать игры с 1989 до октября 2010, объединившись с Index Corporation. После роспуска название ATLUS использовалось в качестве бренда для выпуска игр до 2013, когда оно было выкуплено Sega и восстановлено в качестве компании под именем Sega Dream Corporation.
+    </info>
+    <game name = "Persona">
+        <Persona imgLine = "Persona1Line.jpg" link = "">Persona</Persona>
+        <Persona imgLine = "Persona2Line.jpg" link = "">Persona 2</Persona>
+        <Persona imgLine = "Persona3Line.jpg" link = "">Persona 3</Persona>
+        <Persona imgLine = "Persona3DanceLine.jpg" link = "">Persona 3: Dancing in Moonlight</Persona>
+        <Persona imgLine = "Persona4Line.jpg" link = "">Persona 4</Persona>
+        <Persona imgLine = "Persona4ArenaLine.jpg" link = "">Persona 4: Arena</Persona>
+        <Persona imgLine = "Persona4TUUSHLine.jpg" link = "">Persona 4: The Ultimax Ultra Suplex Hold</Persona>
+        <Persona imgLine = "Persona4DanceLine.jpg" link = "">Persona 4: Dancing All Night</Persona>
+        <Persona imgLine = "Persona5Line.jpg" link = "">Persona 5</Persona>
+        <Persona imgLine = "Persona5DanceLine.jpg" link = "">Persona 5: Dancing in Starlight</Persona>
+        <Persona imgLine = "PersonaQLine.jpg" link = "">Persona Q: Shadow of the Labyrinth</Persona>
+        <Persona imgLine = "PersonaQ2Line.jpg" link = "">Persona Q2: New Cinema Labyrinth</Persona>
+        <Persona imgLine = "Persona5ScrambleLine.jpg" link = "">Persona 5 Scramble</Persona>
+    </game>
+    <game name = "Catherine">
+        <Catherine imgLine = "CatherineLine.jpg" link = "">Catherine</Catherine>
+    </game>
+</ATLUS>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rhythm>
+    <info>
+        
+    </info>
+    <info>
+        
+    </info>
+    <game name = "Persona">
+        <Persona imgLine = "Persona3DanceLine.jpg" link = "">Persona 3: Dancing in Moonlight</Persona>
+        <Persona imgLine = "Persona4DanceLine.jpg" link = "">Persona 4: Dancing All Night</Persona>
+        <Persona imgLine = "Persona5DanceLine.jpg" link = "">Persona 5: Dancing in Starlight</Persona>
+    </game>
+</Rhythm>

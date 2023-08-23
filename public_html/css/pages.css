@@ -1,0 +1,93 @@
+@font-face {
+    font-family: Pixel;
+    src: url("../fonts/pixel.ttf");
+}
+body{
+    background-image: url("../img/background/welcomeBackground.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-shadow:
+		-0   -3px 0   #000000,
+		 0   -3px 0   #000000,
+		-0    3px 0   #000000,
+		 0    3px 0   #000000,
+		-3px -0   0   #000000,
+		 3px -0   0   #000000,
+		-3px  0   0   #000000,
+		 3px  0   0   #000000,
+		-1px -3px 0   #000000,
+		 1px -3px 0   #000000,
+		-1px  3px 0   #000000,
+		 1px  3px 0   #000000,
+		-3px -1px 0   #000000,
+		 3px -1px 0   #000000,
+		-3px  1px 0   #000000,
+		 3px  1px 0   #000000,
+		-2px -3px 0   #000000,
+		 2px -3px 0   #000000,
+		-2px  3px 0   #000000,
+		 2px  3px 0   #000000,
+		-3px -2px 0   #000000,
+		 3px -2px 0   #000000,
+		-3px  2px 0   #000000,
+		 3px  2px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000;
+}
+h1, .games{
+    font-family: Pixel;
+    width: 100%
+}
+h1{
+    display: inline-block;
+    width: auto;
+}
+#name{
+    width: 100%;
+}
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0px 40px 0px;
+}
+header h1, header ~ h1{
+    margin: 0px 0px 0px 0px;
+}
+.info{
+    font-size: 25px;
+    width: 1550px;
+    min-width: 480px;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.games > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 25px 30px 25px;
+    min-height: 40px;
+}
+.games a{
+    width: 474px;
+    min-width: 444px;
+    padding: 10px 0px 10px 0px;
+    border: 3px inset #0FE0B6;
+    margin: 5px 0px 5px 0px;
+    display: block;
+}

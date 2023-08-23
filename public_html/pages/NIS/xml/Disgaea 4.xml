@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disgaea>
+    <name cover = "Disgaea4PS3Cover.jpg">Disgaea 4: A Promise Unforgotten</name>
+    <name cover = "Disgaea4PSVitaCover.jpg">Disgaea 4: A Promise Revisited</name>
+    <name cover = "Disgaea4PS4Cover.jpg">Disgaea 4 Complete+</name>
+    <story>
+        Disgaea 4: A Promise Unforgotten - четвёртая часть серии игр Disgaea и вторая часть, вышедшая на PS3. Игра представляет вампира по имени Валваторез, который возглавляет государственный переворот в Преисподней, чтобы реформировать её коррумированное руководство. Таким образом, тема игры крепко связана с политикой. Графика в сравнении с третьей частю значительно улучшилась, появилась "Онлайн режим". Игра была выпущена в Японии 24 февраля, 6 сентября в Северной Америке и 25 ноября в Европе 2011 года.
+    </story>
+    <chars img = "Valvatorez.png" name = "Valvatorez">
+        <text>
+            Валваторез - вампир и бывший тиран, который отказался от своих сил и злодеяний после того, как пообещал больше не пить кровь до тех пор, пока ему не удастся вселить страх в девушку, которую встретил 400 лет назад, по имени Артина, умершую до этого момента. Валваторез имеет сильное чувство гордости и достоинства, поэтому считаешь выполнение своих обещаний главной заботой. Он полностью одержим сардинами, считая, что они восстановили часть его сил после клятвы никогда больше не пить кровь.
+        </text>
+        <text>
+            Он является главным героем Disgaea 4: A Promise Unforgotten, где он и его команда планируют покончить с коррепцией в Преисподней и восстановить баланс между Добром и Злом.
+        </text>
+    </chars>
+    <chars img = "Fenrich.png" name = "Fenrich">
+        <text>
+            Фэнрик - персонаж Disgaea 4: A Promise Unforgotten. Он давний слуга Валватореза и попечитель тюрьмы Принни. Вечно восхваляет Валватореза и хочет, чтобы тот вновь стал тираном, которым он был. Во время эпизодов с воспоминаниями выясняется, что до того, как Фэнрик встретил Валватореза, он был наёмником, которому было поручено избавиться от своего будущего хозяина.
+        </text>
+    </chars>
+    <other link = "Disgaea.html" cover = "DisgaeaPS2Cover.jpg">Disgaea</other>
+    <other link = "Disgaea2.html" cover = "Disgaea2PS2Cover.jpg">Disgaea 2</other>
+    <other link = "Disgaea3.html" cover = "Disgaea3PS3Cover.jpg">Disgaea 3</other>
+    <other link = "DisgaeaD2.html" cover = "DisgaeaD2PS3Cover.jpg">Disgaea Dimension 2</other>
+    <other link = "Disgaea5.html" cover = "Disgaea5PS4Cover.jpg">Disgaea 5</other>
+</Disgaea>

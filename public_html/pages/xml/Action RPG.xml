@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActRPG>
+    <info>
+        
+    </info>
+    <info>
+        
+    </info>
+    <game name = "TWatHK">
+        <TWatHK imgLine = "TWatHKLine.jpg" link = "">The Witch and the Hundred Knight</TWatHK>
+        <TWatHK imgLine = "TWatHK2Line.jpg" link = "">The Witch and the Hundred Knight 2</TWatHK>
+    </game>
+</ActRPG>

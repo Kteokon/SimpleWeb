@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disgaea>
+    <name cover = "Disgaea3PS3Cover.jpg">Disgaea 3: Absence of Justice</name>
+    <name cover = "Disgaea3PSVitaCover.jpg">Disgaea 3: Absence of Detention</name>
+    <story>
+        Disgaea 3: Absence of Justice - третья часть серии игр Disgaea и первая часть, вышедшая на PS3. История повестввует о Мао - первом почётном студенте Дьявольской Академии Маритсу -, который пытается убить собственного отца - нынешного Оверлорда. С этой целью он пытается обрести необходимую мощь всеми возможными путями. Disgaea 3 была выпущена в Японии 31 января 2008 года, в Америке - 26 августа этого же года.
+    </story>
+    <chars img = "Mao.png" name = "Mao">
+        <text>
+            Мао - главный герой Disgaea 3: Absence of Justice. Он является почётным студентом №1 и сыном председателя Дьявольской Академии. Цель его жизни - уничтожить своего отца-Оверлорда.
+        </text>
+    </chars>
+    <chars img = "Raspberyl.png" name = "Raspberyl">
+        <text>
+            Разбэрил - главная героиня Disgaea 3: Absence of Justice. Она единственный главный герой, который способен становиться орудием во время magichange.
+        </text>
+    </chars>
+    <other link = "Disgaea.html" cover = "DisgaeaPS2Cover.jpg">Disgaea</other>
+    <other link = "Disgaea2.html" cover = "Disgaea2PS2Cover.jpg">Disgaea 2</other>
+    <other link = "Disgaea4.html" cover = "Disgaea4PS3Cover.jpg">Disgaea 4</other>
+    <other link = "DisgaeaD2.html" cover = "DisgaeaD2PS3Cover.jpg">Disgaea Dimension 2</other>
+    <other link = "Disgaea5.html" cover = "Disgaea5PS4Cover.jpg">Disgaea 5</other>
+</Disgaea>

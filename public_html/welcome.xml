@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wel>
+    <dev logo = "NIS.jpg" name = "Nippon Ichi Software">NIS</dev>
+    <dev logo = "CH.jpg" name = "Compile Heart">CH</dev>
+    <dev logo = "ATLUS.jpg" name = "ATLUS">ATLUS</dev>
+    <dev logo = "arcsys.jpg" name = "Arc System Works">arcsys</dev>
+    <genre logo = "JRPG.jpg" name = "JRPG">JRPG</genre>
+    <genre logo = "DungeonCrawler.jpg" name = "Dungeon Crawler">DungeonCrawler</genre>
+    <genre logo = "Rhythm.jpg" name = "Rhythm">Rhythm</genre>
+    <genre logo = "Fighting.jpg" name = "Fighting">Fighting</genre>
+    <genre logo = "ActionRPG.jpg" name = "Action RPG">ActionRPG</genre>
+    <genre logo = "Slasher.jpg" name = "Slasher">Slasher</genre>
+</wel>

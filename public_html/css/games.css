@@ -1,0 +1,141 @@
+body{
+    background-attachment: fixed;
+    background-position-x: center;
+    background-color: black;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-shadow:
+		-0   -3px 0   #000000,
+		 0   -3px 0   #000000,
+		-0    3px 0   #000000,
+		 0    3px 0   #000000,
+		-3px -0   0   #000000,
+		 3px -0   0   #000000,
+		-3px  0   0   #000000,
+		 3px  0   0   #000000,
+		-1px -3px 0   #000000,
+		 1px -3px 0   #000000,
+		-1px  3px 0   #000000,
+		 1px  3px 0   #000000,
+		-3px -1px 0   #000000,
+		 3px -1px 0   #000000,
+		-3px  1px 0   #000000,
+		 3px  1px 0   #000000,
+		-2px -3px 0   #000000,
+		 2px -3px 0   #000000,
+		-2px  3px 0   #000000,
+		 2px  3px 0   #000000,
+		-3px -2px 0   #000000,
+		 3px -2px 0   #000000,
+		-3px  2px 0   #000000,
+		 3px  2px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000;
+}
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-width: 450px;
+}
+#title, #menu{
+    width: inherit;
+}
+#description{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    margin-bottom: 40px;
+    background-color: rgba(128, 128, 128, 0.8);
+    border: 1px solid black;
+    border-radius: 15px 15px 15px 15px;
+}
+#description div{
+    margin: 25px 25px 25px 25px;
+}
+#versions div{
+    margin: 25px 0px 25px 0px;
+}
+.pressed, .unpressed{
+    padding: 0px 15px 0px 15px;
+    border: 1px solid black;
+    border-radius: 15px 15px 0px 0px;
+}
+.pressed{
+    background-color: rgba(128, 128, 128, 0.8);
+}
+.unpressed{
+    background-color: rgba(50, 50, 50, 0.8);
+}
+#info, #title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+img{
+    width: 280px;
+}
+.other, .other img, .name{
+    width: 110px;
+}
+.chars img{
+    width: 200px;
+}
+.total{
+    width: 1000px;
+    min-width: 450px;
+}
+#menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.text{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.8);
+    border: 1px solid black;
+    min-width: 450px;
+    text-align: justify;
+    text-shadow:
+		-0   -3px 0   #000000,
+		 0   -3px 0   #000000,
+		-0    3px 0   #000000,
+		 0    3px 0   #000000,
+		-3px -0   0   #000000,
+		 3px -0   0   #000000,
+		-3px  0   0   #000000,
+		 3px  0   0   #000000,
+		-1px -3px 0   #000000,
+		 1px -3px 0   #000000,
+		-1px  3px 0   #000000,
+		 1px  3px 0   #000000,
+		-3px -1px 0   #000000,
+		 3px -1px 0   #000000,
+		-3px  1px 0   #000000,
+		 3px  1px 0   #000000,
+		-2px -3px 0   #000000,
+		 2px -3px 0   #000000,
+		-2px  3px 0   #000000,
+		 2px  3px 0   #000000,
+		-3px -2px 0   #000000,
+		 3px -2px 0   #000000,
+		-3px  2px 0   #000000,
+		 3px  2px 0   #000000;
+}
+.text div, .chars img{
+    margin: 5px;
+}

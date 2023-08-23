@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActRPG>
+    <info>
+        
+    </info>
+    <info>
+        
+    </info>
+    <game name = "Persona">
+        <Persona imgLine = "Persona5ScrambleLine.jpg" link = "">Persona 5 Scramble</Persona>
+    </game>
+</ActRPG>

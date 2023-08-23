@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fighting>
+    <info>
+        
+    </info>
+    <info>
+        
+    </info>
+    <game name = "BlazBlue">
+        <BlazBlue imgLine = "BBCTrLine.jpg" link = "">BlazBlue: Calamity Trigger</BlazBlue>
+        <BlazBlue imgLine = "BBCShLine.jpg" link = "">BlazBlue: Continuum Shift</BlazBlue>
+        <BlazBlue imgLine = "BBCSh2Line.jpg" link = "">BlazBlue: Continuum Shift II</BlazBlue>
+        <BlazBlue imgLine = "BBCShExtLine.jpg" link = "">BlazBlue: Continuum Shift Extend</BlazBlue>
+        <BlazBlue imgLine = "BBChPhLine.jpg" link = "">BlazBlue: Chrono Phantasma</BlazBlue>
+        <BlazBlue imgLine = "BBCFLine.jpg" link = "">BlazBlue: Central Fiction</BlazBlue>
+        <BlazBlue imgLine = "BBCrTBLine.jpg" link = "">BlazBlue: Cross Tag Battle</BlazBlue>
+    </game>
+    <game name = "GuiltyGear">
+        <GuiltyGear imgLine = "GGLine.jpg" link = "">Guilty Gear</GuiltyGear>
+        <GuiltyGear imgLine = "GGXLine.jpg" link = "">Guilty Gear X</GuiltyGear>
+        <GuiltyGear imgLine = "GGXXLine.jpg" link = "">Guilty Gear XX</GuiltyGear>
+        <GuiltyGear imgLine = "GGIsukaLine.jpg" link = "">Guilty Gear Isuka</GuiltyGear>
+        <GuiltyGear imgLine = "GGXrdSIGNLine.jpg" link = "">Guilty Gear Xrd -SIGN-</GuiltyGear>
+        <GuiltyGear imgLine = "GGXrdREVELATORLine.jpg" link = "">Guilty Gear Xrd -REVELATOR-</GuiltyGear>
+        <GuiltyGear imgLine = "GGSTRIVELine.jpg" link = "">Guilty Gear -STRIVE-</GuiltyGear>
+    </game>
+    <game name = "UnderNight">
+        <UnderNight imgLine = "UnderNightLine.jpg" link = "">Under Night In-Birth Exe:Late</UnderNight>
+        <UnderNight imgLine = "UnderNightStLine.jpg" link = "">Under Night In-Birth Exe:Late[st]</UnderNight>
+        <UnderNight imgLine = "UnderNightClRLine.jpg" link = "">Under Night In-Birth Exe:Late[cl-r]</UnderNight>
+    </game>
+    <game name = "Persona">
+        <Persona imgLine = "Persona4ArenaLine.jpg" link = "">Persona 4: Arena</Persona>
+        <Persona imgLine = "Persona4TUUSHLine.jpg" link = "">Persona 4: The Ultimax Ultra Suplex Hold</Persona>
+    </game>
+</Fighting>
